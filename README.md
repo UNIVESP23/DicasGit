@@ -3,7 +3,7 @@
 ## Mantedores
 Esse repositorio é mantido por alunos da UNIVESP
 
-## Obejetivo
+## Objetivo
 O objetivo desse repositorio é organizar e categorizar em um unico local dicas uteis para a utilização do Git assim como do Github e/ou Gitlab
 
 # Instalação do Git
