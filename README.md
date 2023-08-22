@@ -130,7 +130,19 @@ Precione `install`para a instalação se inicie
 - `git pull` => Atualiza a branch atual com as informações da **branch** remota padrão
 
 
+## Links Uteis
 
+- [Cheat Sheet do git (em Ingles)](https://education.github.com/git-cheat-sheet-education.pdf)
+
+- [Documentação do git (em Ingles)](https://git-scm.com/docs)
+
+- [Documentação do git (em Portugues)](https://git-scm.com/docs)
+
+- [Livro ProGit (em Ingles)](https://git-scm.com/book/en/v2)
+
+- [Livro ProGit (em Portugues)](https://git-scm.com/book/pt-br/v2)
+
+- [Learn Git - projeto interativo de aprendizado do Git](https://learngitbranching.js.org/?locale=pt_BR)
 
 
 
